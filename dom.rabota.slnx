@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="dom.rabota.vcxproj" Id="a0120bd5-feb3-43ac-9b9f-7cd7e77675fe" />
+</Solution>
